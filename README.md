@@ -19,3 +19,5 @@
 > 
 > [Conclusion](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/9/conclusion)
 > 
+
+DeepLearninigAI's course [Buildin Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt/)
