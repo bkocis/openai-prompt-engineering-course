@@ -1,5 +1,7 @@
 
-### Code examples shown in the free course of Andrew Ng 
+### A collection of the jupyter notebooks from the free course of Andrew Ng in DeepLearning.ai 
+
+Courses:
 
 [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/courses/#short-courses)
 
